@@ -43,3 +43,40 @@ python manage.py migrate
 ```bash
 python manage.py runserver
 ```
+
+## Current State
+
+- The API currently has defined models for users and profiles.
+- The views and URL patterns are not yet implemented.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone <repository_url>
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd <project_directory>
+   ```
+3. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Usage
+
+To run the project, use the following command:
+
+```bash
+python manage.py runserver
+```
+
+## API Endpoints
+
+- (To be added once implemented)
+
+## Models
+
+- **User**: Custom user model with additional fields.
+- **Profile**: User profile model with additional information.
