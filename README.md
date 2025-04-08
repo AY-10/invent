@@ -53,11 +53,11 @@ python manage.py runserver
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/AY-10/invent
    ```
 2. Navigate to the project directory:
    ```bash
-   cd <project_directory>
+   cd backend
    ```
 3. Install the required packages:
    ```bash
